@@ -1,0 +1,14 @@
+GET http://localhost:5000/leaderboard
+
+###
+
+POST http://localhost:5000/leaderboard
+Content-Type: application/json
+
+{
+    "body": {
+    "category":"cat",
+    "name":"Josh",
+    "score":"2"
+}
+}
