@@ -27,5 +27,5 @@ To run the client, open the terminal:
 
 
 ## Collaborators
-@jt17819, @MZA1996, @amirasif01, @Pilkis-pixel
+@jt17819, @MZA1996, @amirasif01, @Pilks-pixel
 
