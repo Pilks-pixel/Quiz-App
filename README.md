@@ -1,6 +1,6 @@
 # Futureproof Lap 3 Project: Quiz-App
 
-:game_die: [Quizical](quizzicalproject.netlify.app)
+:game_die: [Quizzical](quizzicalproject.netlify.app)
 
 ## Description
 
@@ -27,4 +27,5 @@ To run the client, open the terminal:
 
 
 ## Collaborators
+@jt17819 @MZA1996 @amirasif01
 
