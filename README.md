@@ -1,12 +1,13 @@
-#Futureproof Lap 3 Project: **Quiz-App**
+#Futureproof Lap 3 Project: Quiz-App
 
 [Quizical](quizzicalproject.netlify.app)
 
 ## Description
 
-A quiz app that allows single or local multi-player, which makes use of the Open Trivia API. [OpenTrivia](https://opentdb.com/)
-
-The app is built in React and makes use of Redux for state management and MongoDB to store player scores.
+A quiz app that allows single or local multi-player, which makes use of the [OpenTrivia](https://opentdb.com/)
+ API.
+ 
+The app is built in **React** and makes use of **Redux** for state management and **MongoDB** to store player scores.
 
 Front end is deployed with Netlify and Backend with Heroku.
 
