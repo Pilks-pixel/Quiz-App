@@ -1,7 +1,6 @@
-#Futureproof Lap 3 Project:
->**Quiz-App**
+#Futureproof Lap 3 Project: **Quiz-App**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Quizical](quizzicalproject.netlify.app)
 
 ## Description
 
@@ -9,9 +8,9 @@ A quiz app that allows single or local multi-player, which makes use of the Open
 
 The app is built in React and makes use of Redux for state management and MongoDB to store player scores.
 
-Front end is deployed with Netlify [front-end](quizzicalproject.netlify.app) and Backend with Heroku.
+Front end is deployed with Netlify and Backend with Heroku.
 
-Backend can be found at [back-end](https://github.com/Pilks-pixel/Quiz-App-Backend)
+Backend can be found at [Quiz-App-Backend](https://github.com/Pilks-pixel/Quiz-App-Backend)
 
 ## Intillation & Usage
 
