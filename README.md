@@ -1,6 +1,6 @@
-#Futureproof Lap 3 Project: Quiz-App
+# Futureproof Lap 3 Project: Quiz-App
 
-[Quizical](quizzicalproject.netlify.app)
+:game_die: [Quizical](quizzicalproject.netlify.app)
 
 ## Description
 
@@ -19,11 +19,11 @@ Clone or download the repo and navigate to the root directory of this repo.
 
 To run the client, open the terminal:
 
-### `cd quiz`
+##### `cd quiz`
 
-### `npm install`
+##### `npm install`
 
-### `npm start`
+##### `npm start`
 
 
 ## Collaborators
