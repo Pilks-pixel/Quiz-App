@@ -1,6 +1,6 @@
 # Futureproof Lap 3 Project: Quiz-App
 
-:game_die: [Quizzical](quizzicalproject.netlify.app)
+:game_die: http://quizzicalproject.netlify.app
 
 ## Description
 
